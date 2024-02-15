@@ -26,4 +26,9 @@ It correctly bundles React in production mode and optimizes the build for the be
 
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
+<img width="831" alt="Screenshot 2024-02-15 at 9 40 57 PM" src="https://github.com/DT-Divya/Resume-Builder/assets/140541260/52facabb-25a0-4dc3-a7bc-23cfc28b2f6c">
+
+<img width="877" alt="Screenshot 2024-02-15 at 9 41 03 PM" src="https://github.com/DT-Divya/Resume-Builder/assets/140541260/6b6e34c8-d69d-44a6-b082-b2d2305f0f71">
+
+
 
